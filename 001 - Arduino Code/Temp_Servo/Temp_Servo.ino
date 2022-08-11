@@ -8,12 +8,11 @@
 
 #include <DHT.h>
 #include <Servo.h>
-
 // Sensors Definition - Arduino Pin
 const int PIN_TEMPERATURE = 8;
 
 // Define Temperature Sensor
-#define DHTTYPE DHT11
+#define DHTTYPE DHT22
 DHT dht(PIN_TEMPERATURE,DHTTYPE);
 char temp_str;
 
