@@ -53,4 +53,4 @@ Additional materials
 - 6mm Plywood
 
 ## Instructions Steps 
-[![YouTube Video](https://i9.ytimg.com/vi/reZJyffdFvg/maxresdefault.jpg?time=1663324500000&sqp=CNSikZkG&rs=AOn4CLAbHVy85Vf7H4JN7lvOLdlOklXKSA)](https://www.youtube.com/embed/reZJyffdFvg)
+[![YouTube Video](https://i.imgur.com/d4xw5WJ.png)](https://www.youtube.com/watch?v=reZJyffdFvg&t=0s)
