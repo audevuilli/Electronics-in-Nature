@@ -2,7 +2,7 @@
 
 # Electronics in Nature
 
-This project entitled "Electronics in Nature: Digital Tools to explore our urban natural ecosystem" is a collaboration between Paula Harvey, forest school teacher at [Urban Forest](https://www.urban-forest.org/) and [Aude Vuilliomenet](https:audevuilli.com), PhD Student in the [Connected Environments Lab](https://connected-environments.org/) at [The Bartlett CASA](https://www.ucl.ac.uk/bartlett/casa) in UCL. This project aims to explore environmental sensing technologies and how digital tools can be used to augment the understanding of the ecosystem of an urban park. It focuses primarily on primary and secondary school aged children and seeks to encourage the interest of children for the natural environment as well as to discuss the use of electronics in an outdoor environment. 
+This project entitled "Electronics in Nature: Digital Tools to explore our urban natural ecosystem" is a collaboration between Paula Harvey, forest school teacher at [Urban Forest](https://www.urbanforesttribe.com/) and [Aude Vuilliomenet](https:audevuilli.com), PhD Student in the [Connected Environments Lab](https://connected-environments.org/) at [The Bartlett CASA](https://www.ucl.ac.uk/bartlett/casa) in UCL. This project aims to explore environmental sensing technologies and how digital tools can be used to augment the understanding of the ecosystem of an urban park. It focuses primarily on primary and secondary school aged children and seeks to encourage the interest of children for the natural environment as well as to discuss the use of electronics in an outdoor environment. 
 
 This project received support and funding from the [London National Park City](https://www.nationalparkcity.london/) as part of the Ranger program.
 
